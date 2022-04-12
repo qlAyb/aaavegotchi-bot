@@ -1,0 +1,2 @@
+# aaavegotchi-bot
+aaavegotchi bot
